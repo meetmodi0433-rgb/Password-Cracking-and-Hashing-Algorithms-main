@@ -46,7 +46,7 @@ It demonstrates secure hashing (with & without salting) and showcases how passwo
 #### 🛠️ Setup:
 ```bash
 # Clone and setup
-git clone https://github.com/Neecool/Password-Cracking-and-Hashing-Algorithms.git
+git clone https://github.com/meetmodi0433-rgb/Password-Cracking-and-Hashing-Algorithms.git
 cd Password-Cracking-and-Hashing-Algorithms
 
 # Install dependencies
@@ -99,12 +99,6 @@ Password-Cracking-and-Hashing-Algorithms/
 * Gained insights into ethical hacking & password protection
 * Improved debugging and testing skills with Pytest
 
----
-
-### ✍️ Developer
-
-> [Nikulkumar Suthar](https://github.com/Neecool)
-> Intern at [Codec Technologies](http://codectechnologies.in/)
 
 
 ---
