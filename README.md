@@ -1,14 +1,3 @@
-
-<h1 align="center">🛡️ Password Cracking & Hashing Algorithms 🚀</h1>
-<p align="center">
-  <b>Internship Project for <a href="http://codectechnologies.in/">Codec Technologies</a></b><br>
-  <b>Learn, implement, and test password security algorithms in Python!</b> ⚡<br>
-  Covers MD5, SHA-256, SHA-512, bcrypt, salting, and password cracking (dictionary & brute force).<br>
-  <sub>Tech Stack: Python, Hashlib, Bcrypt, Pytest</sub>
-</p>
-
----
-
 ### 🧠 Introduction
 
 Developed as part of my internship with **Codec Technologies**, this project provides **hands-on implementations of password hashing & cracking techniques**.  
